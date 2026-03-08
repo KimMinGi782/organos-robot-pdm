@@ -1,0 +1,7 @@
+profile,mode,source,T,final_D,peak_D,downtime_steps,downtime_pct,intervention_cnt,L3_steps,seal_first,damage_improvement_pct,downtime_improvement_pct
+femto_outer,reactive,synthetic:femto_outer,500,1.0,1.0,286,57.2,0,243,214.0,67.2,100.0
+femto_outer,predictive,synthetic:femto_outer,500,0.3285,0.7245,0,0.0,312,243,,,
+femto_inner,reactive,synthetic:femto_inner,500,1.0,1.0,330,66.0,0,243,170.0,52.4,100.0
+femto_inner,predictive,synthetic:femto_inner,500,0.4756,0.7724,0,0.0,346,243,,,
+ims_wrist,reactive,synthetic:ims_wrist,500,1.0,1.0,231,46.2,0,243,269.0,75.8,100.0
+ims_wrist,predictive,synthetic:ims_wrist,500,0.2423,0.677,0,0.0,227,243,,,
