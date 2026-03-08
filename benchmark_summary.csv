@@ -1,0 +1,6 @@
+method,lead_time_steps,lead_time_hours,false_alarm_rate,detection_rate_fault_zone,final_D,peak_D,downtime_pct,intervention_cnt,runtime_ms
+Threshold (3-sigma),76,38.0,0.0182,0.996,1.0,1.0,99.6,0,21.9
+EWMA Control Chart,72,36.0,0.0227,0.996,1.0,1.0,99.6,0,22.9
+Random Forest,0,0.0,0.0,0.996,0.4963,0.8728,99.6,0,71.1
+LSTM (Recon. Error),26,13.0,0.05,0.0,1.0,1.0,0.0,16,476.4
+OrganOS (This System),4,2.0,0.5182,0.996,0.3271,0.4389,32.8,389,25.7
